@@ -5,6 +5,7 @@ trigger:
   paths:
     exclude:
     - docs/*  # exclude the docs folder
+    - README.md
 
 pool:
   vmImage: 'ubuntu-latest'
