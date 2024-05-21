@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/miraxia/workflow/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/miraxia/workflow/_build/latest?definitionId=6&branchName=main)
 
 # Contributing
 
